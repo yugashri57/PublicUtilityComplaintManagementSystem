@@ -11,6 +11,10 @@ ComplaintManagementSystem.git cd ComplaintManagementSystem. Compile and run the 
 java com.wipro.ucms.main.Main. This will start the console-based Complaint Management System.
 
 OUTPUT:
+
+
+
+
 <img width="932" height="400" alt="image" src="https://github.com/user-attachments/assets/93ea4457-12c0-4935-9720-2e5839eeb88b" />
 
 
@@ -18,6 +22,11 @@ OUTPUT:
 
 
 ProjectStructure:
+
+
+
+
+
 <img width="421" height="464" alt="image" src="https://github.com/user-attachments/assets/f681e792-a71b-4b3c-a35c-563b25ceedbf" />
 
 
